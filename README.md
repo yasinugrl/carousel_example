@@ -1,6 +1,10 @@
 # Carousel Example App
 
-
+<p align="center">
+<img src="SS/2.png" alt="alt text" width="250" height="520">
+<img src="SS/1.png" alt="alt text" width="250" height="520">
+ <img src="SS/3.png" alt="alt text" width="250" height="520">
+</p>
 ## Prerequisites
 
 Development OS: macOS
